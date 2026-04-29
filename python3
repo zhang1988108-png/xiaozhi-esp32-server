@@ -1,0 +1,5 @@
+[pack]
+executable = ["python3", "app.py"]
+
+[variables]
+PORT = "9000"
