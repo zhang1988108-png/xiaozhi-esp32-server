@@ -1,0 +1,6 @@
+[build]
+  dockerfile = "Dockerfile-server"
+
+[run]
+  command = "bash main/start.sh"
+  port = 9000
